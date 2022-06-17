@@ -1,0 +1,184 @@
+﻿Atividade treino - Katia dos Santos Queiroz - Corrigido
+* Faça um algoritmo para fazer café.
+
+
+   * Ir para a cozinha
+   * Localizar o armário onde se guardam panelas e talheres
+   * Ir até o armário
+   * Abrir a porta do armário
+   * Localizar uma panela
+   * Pegar essa panela 
+   * Fechar a porta do armário
+   * Abrir a gaveta do armário
+   * Pegar uma colher
+   * Fechar a gaveta do armário
+   * Ir até a pia
+   * Colocar a panela embaixo da torneira
+   * Abrir a torneira 
+   * Deixar encher de água até  ⅓ da altura da panela
+   * Fechar a torneira
+   * Pegar a panela cheia com água 
+   * Levar até o fogão
+   * Ligar o botão acendedor do fogão
+   * Girar o botão da chama do fogão para a direita
+   * Colocar a panela com água sobre essa chama ligada
+   * Ir até a mesa no meio da cozinha
+   * Pegar a xícara sobre a mesa
+   * Colocar a colher ao lado da xícara
+   * Pegar o sachê de café solúvel
+   * Abrir o sachê de café solúvel
+   * Despejar o café dentro da xícara
+   * Ir até o fogão
+   * Verificar se a água está fervendo
+   * Se água estiver fervendo
+      * Girar o botão da chama para a esquerda para desligar a chama do fogão
+      * Pegar na alça da panela
+      * Ir até a mesa
+      * Despejar água fervendo na xícara
+      * Pegar a colher 
+      * Misturar a água com o café
+      * Colocar a colher em cima da mesa
+      * Tomar café amargoso
+   *  Se água não estiver fervendo
+      * Aguardar até que a fervura aconteça
+      * Girar o botão da chama para a esquerda
+      * Pegar na alça da panela
+      * Ir até a mesa
+      * Despejar água fervendo na xícara
+      * Pegar a colher 
+      * Misturar a água com o café
+      * Colocar a colher em cima da mesa
+      * Tomar café amargoso
+
+
+* Faça um algoritmo para fritar um ovo.
+
+
+* Ir para a cozinha
+* Localizar o armário onde se guardam panelas e talheres
+* Ir até o armário
+* Abrir a porta do armário
+* Localizar uma frigideira
+* Pegar essa frigideira 
+* Fechar a porta do armário
+* Abrir a gaveta do armário
+* Pegar uma colher escumadeira
+* Fechar a gaveta do armário
+* Ir até a bancada que fica do lado esquerdo do fogão 
+* Colocar a colher escumadeira sobre a bancada
+* Colocar a frigideira sobre a bancada
+* Pegar a garrafa de óleo 
+* Retirar a tampa da garrafa de óleo 
+* Despejar 100 ml de óleo dentro da frigideira
+* Tampar a garrafa de óleo 
+* Colocar a garrafa de óleo em cima da bancada 
+* Pegar a frigideira que já está com óleo dentro
+* Levar até o fogão
+* Ligar o botão acendedor do fogão
+* Girar o botão da chama do fogão para a direita
+* Colocar a frigideira que já está com o óleo dentro sobre essa chama ligada
+* Deixar óleo sendo aquecido
+* Localizar a geladeira
+* Ir até a geladeira
+* Abrir a geladeira
+* Localizar um ovo
+* Pegar o ovo
+* Fechar a geladeira
+* Ir até fogão onde está frigideira com o óleo já aquecido
+* Bater o ovo levemente na ponta do fogão
+* Quebrar a casca do ovo
+* Despejar a clara e gema do ovo dentro da frigideira
+* Colocar as cascas do ovo sobre a bancada do lado esquerdo do fogão
+* Ir até o armário enquanto o ovo já está em processo de fritura no óleo quente
+* Abrir a gaveta à esquerda do armário
+* Pegar um prato
+* Fechar a gaveta
+* Voltar ao fogão
+* Confirmar a textura do ovo
+* Se o ovo já estiver frito
+   * Girar o botão da chama do fogão para a esquerda para desligar a chama do fogão
+   * Pegar a colher escumadeira na bancada do lado esquerdo do fogão
+   * Retirar com a colher escumadeira o ovo frito de dentro da frigideira
+   * Colocar o ovo frito em cima do prato
+   * Colocar a colher escumadeira em cima da mesa 
+   * Colocar o prato com o ovo frito em cima da mesa
+* Se o ovo não estiver frito
+   * Aguardar até que o ovo apresente textura de fritura
+   * Se o ovo estiver frito
+      * Girar o botão da chama do fogão para a esquerda para desligar a chama do fogão
+      * Pegar a colher escumadeira na bancada do lado esquerdo do fogão
+      * Retirar com a colher escumadeira o ovo frito dentro da frigideira
+      * Colocar o ovo frito em cima do prato
+      * Colocar a colher escumadeira em cima da mesa 
+      * Colocar o prato com o ovo frito em cima da mesa
+
+
+
+
+* Faça um algoritmo para zerar uma fila de banco.
+
+
+* Iniciar jornada de trabalho bancário de atendente
+* Adentrar agência
+* Fazer registro eletrônico de ponto
+* Dirigir-se ao posto de atendimento
+* Conferir materiais de trabalho
+* Abrir o caixa para atendimento
+* Abrir a porta do banco 
+* Liberar entrada de clientes
+* Iniciar atendimento ao cliente
+* Se pessoa na fila
+   * Chamar o primeiro da fila
+* Verificar a fila
+* Se pessoa na fila
+   * Chamar o próximo da fila
+* Executar ação até fim de pessoas na fila ou até finalizar expediente bancário.
+
+
+* Faça um algoritmo para guardar livros dentro de uma caixa.
+
+
+* Pegar uma caixa grande
+* Verificar se a parte debaixo da caixa está fechada
+* Se parte debaixo da caixa estiver fechada
+   * Abrir a parte superior da caixa
+      * Pegar um livro e colocar dentro da caixa
+      * Verificar se há mais livro
+         * Se houver mais livro
+            * Pegar o próximo livro e colocar em cima do 1º livro que está dentro da caixa
+            * Caso não
+               * Fechar a parte superior da caixa
+            * Verificar se há mais livro
+               * Se houver mais livro
+                  * Pegar o próximo livro e colocar em cima do livro que está dentro da caixa
+                  * Caso não
+                     * Fechar a parte superior da caixa
+                  * Repetir a operação até que não haja mais livro para colocar dentro da caixa ou que a caixa não tenha mais espaço disponível para armazenamento.
+* Se parte debaixo da caixa não estiver fechada
+* Ajustar o fechamento da parte debaixo da caixa
+* Abrir a parte superior da caixa
+   * Pegar um livro e colocar dentro da caixa
+   * Verificar se há mais livro
+      * Se houver mais livro
+         * Pegar o próximo livro e colocar em cima do 1º livro que está dentro da caixa
+         * Caso não
+            * Fechar a parte superior da caixa
+         * Verificar se há mais livro
+            * Se houver mais livro
+               * Pegar o próximo livro e colocar em cima do livro que está dentro da caixa
+               * Caso não
+                  * Fechar a parte superior da caixa
+               * Repetir a operação até que não haja mais livro para colocar dentro da caixa ou que a caixa não tenha mais espaço disponível para armazenamento.
+
+
+
+
+
+
+
+
+
+
+
+
+         *
